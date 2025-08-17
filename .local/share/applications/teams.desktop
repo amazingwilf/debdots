@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Teams
+Comment=Teams
+Exec=chromium --new-window --app="https://teams.microsoft.com/" --name="Teams" --class="Teams"
+Terminal=false
+Type=Application
+Icon=/usr/local/share/icons/teams.svg
+StartupNotify=true

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Outlook
+Comment=Outlook
+Exec=chromium --new-window --app="https://outlook.office.com/" --name="Outlook" --class="Outlook"
+Terminal=false
+Type=Application
+Icon=/usr/local/share/icons/microsoft-outlook.svg
+StartupNotify=true

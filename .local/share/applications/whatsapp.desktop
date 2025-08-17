@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=WhatsApp
+Comment=WhatsApp
+Exec=chromium --new-window --app="https:/web.whatsapp.com/" --name="WhatsApp" --class="WhatsApp"
+Terminal=false
+Type=Application
+Icon=/usr/local/share/icons/whatsapp.svg
+StartupNotify=true
