@@ -1,0 +1,11 @@
+theme = "ayu"
+background = #070707
+font-family = "IosevkaTerm Nerd Font"
+font-size = 17
+title = Terminak
+window-decoration = false
+cursor-style = block
+adjust-cursor-thickness = 3
+background-opacity = 0.85
+window-padding-x = 12
+window-padding-y = 12
